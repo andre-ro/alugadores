@@ -3,3 +3,4 @@ Criada em 2020, por pessoas que já passaram por muitas dificuldades na hora de 
 
 # Integrantes
 André Rodrigues - Estudante de ciência da computação no Mackenzie e database da Cryptal.
+Eric Gregory - Estudante de ciência da computação no Mackenzie

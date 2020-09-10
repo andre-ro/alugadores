@@ -3,11 +3,11 @@ Criada por pessoas que nunca encontraram uma forma eficiente em aluguel de bicic
 
 ![image](https://i.ibb.co/tLKwMV3/Alugadores-Flowchart.png)
 
-### Pedidos
-
+### Pedido
+Quando um Qrcode é escaneado. com sucesso, pelo aplicativo um pedido contendo as informações essenciais do locatário e da bicicleta a ser alugada são enviados para um servidor de porcessos na forma de um pacote de dados seguro denominado "Pedido".
 
 ### Disponível
-
+O pedido, no servidor, é analisado para verificar a disponibilidade da bicicleta. Caso ela esteja indisponível o servidor retornará uma mensagem de erro.
 
 ### Pagamento
 

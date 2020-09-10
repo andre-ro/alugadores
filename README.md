@@ -10,7 +10,7 @@ Quando um Qrcode é escaneado. com sucesso, pelo aplicativo um pedido contendo a
 O pedido, no servidor, é analisado para verificar a disponibilidade da bicicleta. Caso ela esteja indisponível o servidor retornará uma mensagem de erro.
 
 ### Pagamento
-
+Em seguida as informações de pagamento, contidadas no pedido, são efetuados... 
 
 ### Efetuado
 

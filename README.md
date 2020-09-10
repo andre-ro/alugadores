@@ -1,5 +1,5 @@
 # Alugadores
-Criada em 2020, por pessoas que já passaram por muitas dificuldades na hora de alugar, seja um produto, uma casa ou um carro. Alugadores é uma empresa que deseja facilitar o processo de alugação. Se você deseja alugar um apartamento, A Alugadores irá encontrar o apartamento ideal e da maneira mais simples possível, o mesmo vale para automóveis e dispositivos diversos. Tudo para que você possa ter a melhor experiência possível.
+Criada por pessoas que nunca encontraram uma forma eficiente em aluguel de bicicletas. Alugadores é uma empresa que visa facilitar o processo de alugação da forma mais simples e prática possivel, tanto para pessoas que desejam alugar uma bicicleta quanto para quem procura por sua bicicleta em aluguel.
 
 ![image](https://i.ibb.co/tLKwMV3/Alugadores-Flowchart.png)
 

@@ -7,16 +7,15 @@ Criada por pessoas que nunca encontraram uma forma eficiente em aluguel de bicic
 Quando um Qrcode é escaneado. com sucesso, pelo aplicativo um pedido contendo as informações essenciais do locatário e da bicicleta a ser alugada são enviados para um servidor de porcessos na forma de um pacote de dados seguro denominado "Pedido".
 
 ### Disponível
-O pedido, no servidor, é analisado para verificar a disponibilidade da bicicleta. Caso ela esteja indisponível o servidor retornará uma mensagem de erro.
+O pedido, no servidor, é analisado para verificar a disponibilidade da bicicleta. Caso ela esteja indisponível o servidor retornará uma mensagem de erro e quebrará o processo de pedidos.
 
 ### Pagamento
-Em seguida inserir as informações de pagamento 
+Em seguida as informações de pagamento, contidas no cadastro do pedido, são utilizadas em uma interface com o banco de escolha para efetuar a transação econômica.
 
 ### Efetuado
-Se as informações do pagamento forem invalidas retorna para o pedido, se forem corretas, continue com o pagamento.
-
+Se o estagio de pagamento foi executado com sucesso, o pedido segue para a última faze, Aluguel, caso contrário uma mensagem de erro é retornada e o pedido pode ser canselado dependendo da severidade do erro.
 ### Aluguel
-Gera o recibo e destranca a trava de segurança da bicicleta.
+Por último o, com o pedido confirmado a bicicleta recebe um sinal do servidor, que a desbloqueia pelo tempo necessário e retorna um recibo eletrônico ao usuário.
 
 ## Integrantes
 André Rodrigues - Estudante de ciência da computação no Mackenzie e database da Cryptal.

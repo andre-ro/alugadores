@@ -10,13 +10,13 @@ Quando um Qrcode é escaneado. com sucesso, pelo aplicativo um pedido contendo a
 O pedido, no servidor, é analisado para verificar a disponibilidade da bicicleta. Caso ela esteja indisponível o servidor retornará uma mensagem de erro.
 
 ### Pagamento
-Em seguida as informações de pagamento, contidadas no pedido, são efetuados... 
+Em seguida inserir as informações de pagamento 
 
 ### Efetuado
-
+Se as informações do pagamento forem invalidas retorna para o pedido, se forem corretas, continue com o pagamento.
 
 ### Aluguel
-
+Gera o recibo e destranca a trava de segurança da bicicleta.
 
 ## Integrantes
 André Rodrigues - Estudante de ciência da computação no Mackenzie e database da Cryptal.

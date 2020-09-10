@@ -3,6 +3,21 @@ Criada por pessoas que nunca encontraram uma forma eficiente em aluguel de bicic
 
 ![image](https://i.ibb.co/tLKwMV3/Alugadores-Flowchart.png)
 
+### Pedidos
+
+
+### Disponível
+
+
+### Pagamento
+
+
+### Efetuado
+
+
+### Aluguel
+
+
 ## Integrantes
 André Rodrigues - Estudante de ciência da computação no Mackenzie e database da Cryptal.
 

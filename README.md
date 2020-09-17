@@ -25,7 +25,7 @@ Se o estagio de pagamento foi executado com sucesso, o pedido segue para a últi
 Por último o, com o pedido confirmado a bicicleta recebe um sinal do servidor, que a desbloqueia pelo tempo necessário e retorna um recibo eletrônico ao usuário.
 
 ### Financeiro
-Responsável pela gestão dos pagamentos.
+Responsável pela gestão dos pagamentos, por meio de verificações de dados compartilhados entre instituições financeiras e o banco de dados dos cadastrados na apicação.
 
 ## Integrantes
 André Rodrigues - Estudante de ciência da computação no Mackenzie e database da Cryptal.

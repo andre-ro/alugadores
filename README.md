@@ -2,8 +2,10 @@
 Criada por pessoas que nunca encontraram uma forma eficiente em aluguel de bicicletas. Alugadores é uma empresa que visa facilitar o processo de alugação de biciletas da forma mais simples e prática possivel, a Alugadores irá espalhar bicicletas na sua cidade, cada uma com uma trava de segurança e um qrcode, ao abrir-lo, você será direcionado para um link onde, se ja possui cadastro, irá alugar a bicicleta automaticamente, destravando a trava de segurança. 
 
 ![image1](https://i.ibb.co/tLKwMV3/Alugadores-Flowchart.png)
+*Flowchart de Operações da aplicação*
 
 ![image2](https://cdn.discordapp.com/attachments/751444249182208120/756253194400825354/DiagramaCasoDeUso.png)
+*Diagrama de Caso de Uso da aplicação*
 
 ### Pedido
 Quando um Qrcode é escaneado. com sucesso, pelo aplicativo um pedido contendo as informações essenciais do locatário e da bicicleta a ser alugada são enviados para um servidor de porcessos na forma de um pacote de dados seguro denominado "Pedido".

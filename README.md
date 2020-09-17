@@ -14,8 +14,12 @@ Em seguida as informações de pagamento, contidas no cadastro do pedido, são u
 
 ### Efetuado
 Se o estagio de pagamento foi executado com sucesso, o pedido segue para a última faze, Aluguel, caso contrário uma mensagem de erro é retornada e o pedido pode ser canselado dependendo da severidade do erro.
+
 ### Aluguel
 Por último o, com o pedido confirmado a bicicleta recebe um sinal do servidor, que a desbloqueia pelo tempo necessário e retorna um recibo eletrônico ao usuário.
+
+### Financeiro
+Responsável pela gestão dos pagamentos.
 
 ## Integrantes
 André Rodrigues - Estudante de ciência da computação no Mackenzie e database da Cryptal.

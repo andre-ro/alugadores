@@ -5,7 +5,7 @@ Criada por pessoas que nunca encontraram uma forma eficiente em aluguel de bicic
 
 *Flowchart de Operações da aplicação*
 
-![image2](https://cdn.discordapp.com/attachments/751444249182208120/756253194400825354/DiagramaCasoDeUso.png)
+![image2](https://i.ibb.co/fFcjG29/Caso-Uso-V2.png)
 
 *Diagrama de Caso de Uso da aplicação*
 
